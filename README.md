@@ -27,4 +27,4 @@ analysis- This file contains the different outcome of r function to observe the 
 objective:- 
 Recommend a best book based on the ratings.
 
-Note :- I have added some png files which are the different graphs on both the datasets for EDA and result observation purpose. Also added the snapshot of both the datasets.   
+Note :- I have added some png files which are the different graphs on both the datasets for EDA and result observation purpose. Also added the snapshot of the dataset.   
