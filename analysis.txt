@@ -1,0 +1,42 @@
+Timing stopped at: 106 0.1 113.1
+
+
+Error in neighbors[, x] : incorrect number of dimensions
+
+
+ Recommender 'UBCF_cos' has failed and has been removed from the results!
+
+
+
+$IBCF_cos
+    RMSE MSE MAE
+res  NaN NaN NaN
+
+$IBCF_cor
+    RMSE MSE MAE
+res  NaN NaN NaN
+
+$RANDOM
+        RMSE      MSE     MAE
+res 3.394138 11.52018 2.41319
+
+$POPULAR
+        RMSE      MSE     MAE
+res 3.029275 9.176509 2.28035
+
+
+$IBCF_cos
+    RMSE MSE MAE
+res  NaN NaN NaN
+
+$IBCF_cor
+    RMSE MSE MAE
+res  NaN NaN NaN
+
+$RANDOM
+        RMSE      MSE     MAE
+res 3.394138 11.52018 2.41319
+
+$POPULAR
+        RMSE      MSE     MAE
+res 3.029275 9.176509 2.28035
